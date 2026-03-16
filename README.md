@@ -63,7 +63,7 @@ padding:10px;
 <body>
 
 <header>
-<h1>Priyanka Portfolio</h1>
+<h1> SAI NITISHA Portfolio</h1>
 <p>Student | Machine Learning Learner</p>
 </header>
 
