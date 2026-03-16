@@ -63,7 +63,7 @@ padding:10px;
 <body>
 
 <header>
-<h1> SAI NITISHA Portfolio</h1>
+<h1> SAI NITISHA Portfolio </h1>
 <p>Student | Machine Learning Learner</p>
 </header>
 
@@ -107,20 +107,20 @@ padding:10px;
 <h2>Education</h2>
 <ul>
 <li>B.Tech in Computer Science</li>
-<li>XYZ College</li>
-<li>Graduation Year: 2026</li>
+<li> KIET College</li>
+<li>Graduation Year: 2027</li>
 </ul>
 </section>
 
 <section id="connect">
 <h2>Connect With Me</h2>
-<p>Email: priyanka@email.com</p>
-<p>Phone: 9876543210</p>
+<p>Email: nitishasai489@gmail.com</p>
+<p>Phone: 8074150235</p>
 <p>LinkedIn: linkedin.com/in/priyanka</p>
 </section>
 
 <footer>
-<p>© 2026 Priyanka Portfolio</p>
+<p>© 2027 sai nitisha Portfolio</p>
 </footer>
 
 </body>
