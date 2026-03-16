@@ -77,17 +77,17 @@ padding:10px;
 
 <section id="about">
 <h2>About Me</h2>
-<p>Hello! My name is Priyanka. I am a Computer Science student interested in Machine Learning, Python, and Data Science.</p>
+<p>Hello! My name is SAI NITISHA. I am a Computer Science student interested in Machine Learning, Python, and Data Science.</p>
 </section>
 
 <section id="information">
 <h2>Personal Information</h2>
 <ul>
-<li>Name: Priyanka</li>
-<li>Age: 21</li>
-<li>City: Vijayawada</li>
+<li>Name: SAI NITISHA</li>
+<li>Age: 19</li>
+<li>City: VIZGA</li>
 <li>Course: B.Tech</li>
-<li>Interest: Machine Learning</li>
+<li>Interest: MACHINE LEARING </li>
 </ul>
 </section>
 
